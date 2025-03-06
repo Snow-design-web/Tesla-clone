@@ -34,7 +34,7 @@ function Home() {
         bckGrnImg="model-x.jpg"
         />
         <Section 
-        title="Lowest Cost Solar Panel in Nigeria"
+        title="Solar Panel To Save Energy"
         description="1 Year Guarantee"
         leftBtn="Order now"
         rightBtn="Learn more"
